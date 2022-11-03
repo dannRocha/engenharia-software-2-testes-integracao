@@ -1,0 +1,157 @@
+[
+  {
+    "nome": "Astrogildo 1",
+    "cpf": "111.111.111-11",
+    "telefone1": "+55 (98) 99999-9000",
+    "telefone2": "+55 (98) 99999-8000",
+    "banheiros": 2,
+    "email": "astrogildo0@email.com",
+    "dt_nascimento": "1998-08-13",
+    "locacoes": [
+      {
+        "valor_aluguel": 160,
+        "pertecentual_multa": 0,
+        "dia_vencimento": 28,
+        "data_inicio": "2023-10-30",
+        "ativo": true,
+        "alugueis": [
+          {
+            "data_vencimento": "2022-09-30",
+            "data_pagamento": "2022-09-30",
+            "valor_pago": 160
+          },
+          {
+            "data_vencimento": "2022-09-30",
+            "data_pagamento": "2022-09-30",
+            "valor_pago": 160
+          }
+        ],
+        "imovel": {}
+      }
+    ]
+  },
+  {
+    "nome": "Astrogildo 2",
+    "cpf": "222.222.222-22",
+    "telefone1": "+55 (98) 99999-9001",
+    "telefone2": "+55 (98) 99999-8001",
+    "banheiros": 2,
+    "email": "astrogildo1@email.com",
+    "dt_nascimento": "1998-08-13",
+    "locacoes": [
+      {
+        "valor_aluguel": 176,
+        "pertecentual_multa": 0,
+        "dia_vencimento": 28,
+        "data_inicio": "2023-10-30",
+        "ativo": true,
+        "alugueis": [
+          {
+            "data_vencimento": "2022-09-30",
+            "data_pagamento": "2022-09-30",
+            "valor_pago": 176
+          },
+          {
+            "data_vencimento": "2022-09-30",
+            "data_pagamento": "2022-09-30",
+            "valor_pago": 176
+          }
+        ],
+        "imovel": {}
+      }
+    ]
+  },
+  {
+    "nome": "Astrogildo 3",
+    "cpf": "333.333.333-33",
+    "telefone1": "+55 (98) 99999-9002",
+    "telefone2": "+55 (98) 99999-8002",
+    "banheiros": 2,
+    "email": "astrogildo2@email.com",
+    "dt_nascimento": "1998-08-13",
+    "locacoes": [
+      {
+        "valor_aluguel": 192,
+        "pertecentual_multa": 0,
+        "dia_vencimento": 28,
+        "data_inicio": "2023-10-30",
+        "ativo": true,
+        "alugueis": [
+          {
+            "data_vencimento": "2022-09-30",
+            "data_pagamento": "2022-09-30",
+            "valor_pago": 192
+          },
+          {
+            "data_vencimento": "2022-09-30",
+            "data_pagamento": "2022-09-30",
+            "valor_pago": 192
+          }
+        ],
+        "imovel": {}
+      }
+    ]
+  },
+  {
+    "nome": "Astrogildo 4",
+    "cpf": "444.444.444-44",
+    "telefone1": "+55 (98) 99999-9003",
+    "telefone2": "+55 (98) 99999-8003",
+    "banheiros": 2,
+    "email": "astrogildo3@email.com",
+    "dt_nascimento": "1998-08-13",
+    "locacoes": [
+      {
+        "valor_aluguel": 208,
+        "pertecentual_multa": 0,
+        "dia_vencimento": 28,
+        "data_inicio": "2023-10-30",
+        "ativo": true,
+        "alugueis": [
+          {
+            "data_vencimento": "2022-09-30",
+            "data_pagamento": "2022-09-30",
+            "valor_pago": 208
+          },
+          {
+            "data_vencimento": "2022-09-30",
+            "data_pagamento": "2022-09-30",
+            "valor_pago": 208
+          }
+        ],
+        "imovel": {}
+      }
+    ]
+  },
+  {
+    "nome": "Astrogildo 5",
+    "cpf": "555.555.555-55",
+    "telefone1": "+55 (98) 99999-9004",
+    "telefone2": "+55 (98) 99999-8004",
+    "banheiros": 2,
+    "email": "astrogildo4@email.com",
+    "dt_nascimento": "1998-08-13",
+    "locacoes": [
+      {
+        "valor_aluguel": 224,
+        "pertecentual_multa": 0,
+        "dia_vencimento": 28,
+        "data_inicio": "2023-10-30",
+        "ativo": true,
+        "alugueis": [
+          {
+            "data_vencimento": "2022-09-30",
+            "data_pagamento": "2022-09-30",
+            "valor_pago": 224
+          },
+          {
+            "data_vencimento": "2022-10-30",
+            "data_pagamento": "2022-10-31",
+            "valor_pago": 224
+          }
+        ],
+        "imovel": {}
+      }
+    ]
+  }
+]
