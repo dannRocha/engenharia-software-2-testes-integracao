@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "from": "banana@email.com",
+    "to": "milho@email.com",
+    "body": "Seu legume ...",
+    "status": "reject",
+    "update_at": "2022-11-09T22:00:36.501478"
+  },
+  {
+    "id": 2,
+    "from": "milho@email.com",
+    "to": "banana@email.com",
+    "body": "Sua fruta ...",
+    "status": "reject",
+    "update_at": "2022-11-09T22:00:36.501478"
+  }
+]
